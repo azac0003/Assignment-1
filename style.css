@@ -1,0 +1,84 @@
+body {
+    background-color: #736F6F ;
+    text-align: center;
+    background-image: url("Images/walp.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+  }
+
+h1 {
+    font-size: 40px;
+    font-family: Trebuchet MS;
+    color: #FFFFFF;
+    float: right;
+    margin: 0px
+
+  }
+h2 {
+    font-size: 35px;
+    color: #FFFFFF;
+    font-family: Trebuchet MS;
+  }
+
+h3 {
+  font-size: 20px;
+  font-family: Trebuchet MS;
+  color: black;
+}
+p {
+  font-size: 20px;
+  font-family: Trebuchet MS;
+  color: #FFFFFF;
+}
+a {
+  font-family: Trebuchet MS;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+header {
+
+}
+
+.navi {
+  position: fixed;
+
+}
+
+.lee {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+
+.lee li {
+  display: inline;
+}
+
+.lee li a {
+  color: white;
+  padding: 14px 16px;
+}
+
+.lee li a:link {
+  color: black;
+  text-decoration: none;
+}
+
+.lee li a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.lee li a:hover {
+  color: grey;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+  font-family: Trebuchet MS;
+  color: #FFFFFF;
+}
