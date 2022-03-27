@@ -12,7 +12,6 @@ h1 {
     font-size: 40px;
     font-family: Trebuchet MS;
     color: #FFFFFF;
-    float: right;
     margin: 0px
 
   }
@@ -80,11 +79,11 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 15%;
+    width: 12%;
     background-color: #f1f1f1;
     position: fixed;
-    height: 20%;
-    overflow: auto;
+    height: 25%;
+    overflow: hidden;
 }
 
 li a {
